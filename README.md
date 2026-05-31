@@ -5,11 +5,11 @@
 <p>
   <img align="right" src="https://raw.githubusercontent.com/mabedd/Projects-Portfolio/main/github-assets/portfolio-preview.gif" alt="Portfolio preview" height="250" width="440">
 
-- 🔭 Building intelligent, scalable systems at the intersection of **software, AI, and cloud**
-- 🧠 Focused on **Generative AI**, full-stack products, and cloud-native architecture
+- 🔭 Building intelligent, scalable solutions.
+- 🧠 Focusin on **GeneAI**, full-stack products, and cloud services.
 - 🚀 Check out my [portfolio](https://abedev-portfolio.netlify.app/)
-- 🌱 Always learning — Gen AI, modern React, and DevOps pipelines
-- ⚡ Commitment is the key to SUCCESS
+- 🌱 Always learning — Gen AI, modern React, and DevOps pipelines.
+- ⚡ Commitment is the key to SUCCESS.
 </p>
 
 <br clear="right"/>
